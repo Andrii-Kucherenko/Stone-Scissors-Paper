@@ -1,0 +1,9 @@
+﻿  Stone, Scissors, Paper.cpp
+D:\Programs\VS\Projects\Stone, Scissors, Paper\Stone, Scissors, Paper\Stone, Scissors, Paper.cpp(32,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programs\VS\Projects\Stone, Scissors, Paper\Stone, Scissors, Paper\Stone, Scissors, Paper.cpp(45,14): warning C4101: 'isCorrect': unreferenced local variable
+  Generating code
+  1 of 128 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Stone, Scissors, Paper.vcxproj -> D:\Programs\VS\Projects\Stone, Scissors, Paper\x64\Release\Stone, Scissors, Paper.exe
